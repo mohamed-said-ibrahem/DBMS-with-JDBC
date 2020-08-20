@@ -12,3 +12,18 @@ This is a DataBase Management System(DBMS) that is an application that interacts
 and manage data in a database using SQL , with Java DataBase Connectivity (JDBC) which access the databases with a 
 standard API regardless of the driver or the database.
 
+### DBMS Objectives
+##### 1.Design an object oriented XML-based DBMS.
+##### 2.Getting familiar with SQL and XML parsing.
+##### 3.Draw a UML class diagram that represents your model.
+##### 4.Apply different design patterns to your model.
+
+### JDBC API Objectives
+
+##### 1.Implements JDBC standard interface.
+
+##### 2.Integrate JDBC interface with your earlier DBMS implementation.
+
+##### 3.Apply different design patterns to your model.
+
+##### 4.Extend your previously written code and augment it with new features.
